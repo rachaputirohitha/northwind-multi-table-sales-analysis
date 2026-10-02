@@ -136,7 +136,8 @@ The Power BI dashboard includes KPI cards, charts, tables, and interactive filte
 
 <img width="1600" height="900" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/435f49f8-0a40-49c4-ab9d-ca7698482d3d" />
 
-<img width="1600" height="900" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/aeeefdf0-edac-4a1e-9c4f-8e1880118e91" />
+<img width="1600" height="900" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/9dc3d88f-0684-4667-acdb-5ccf97929665" />
+
 
 
 
