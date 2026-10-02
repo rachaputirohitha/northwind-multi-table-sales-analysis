@@ -132,11 +132,12 @@ The Power BI dashboard includes KPI cards, charts, tables, and interactive filte
 <img width="1135" height="633" alt="dashboard" src="https://github.com/user-attachments/assets/ae5fc745-bbdd-43d0-a084-b85a7f34b7e9" />
 
 ## SQL Query Preview
-<img width="1133" height="629" alt="Screenshot 2026-10-02 174053" src="https://github.com/user-attachments/assets/9192fcde-62fb-412d-b8be-37f11e11b0d5" />
+<img width="1600" height="900" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/86d94ff0-82b4-43f7-8b70-4c68359604d2" />
 
 <img width="1600" height="900" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/435f49f8-0a40-49c4-ab9d-ca7698482d3d" />
 
-<img width="1133" height="629" alt="Screenshot 2026-10-02 174053" src="https://github.com/user-attachments/assets/96dba179-f394-4714-aa65-d6a51d103133" />
+<img width="1600" height="900" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/aeeefdf0-edac-4a1e-9c4f-8e1880118e91" />
+
 
 
 
