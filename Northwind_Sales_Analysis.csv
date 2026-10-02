@@ -1,0 +1,59 @@
+customer_id,customer_name,order_id,order_date,product_id,product_name,quantity,unit_price,discount,sales_amount
+27,"Company AA",30,"2006-01-15 00:00:00",34,"Northwind Traders Beer",100.0000,14.0000,0,1400
+27,"Company AA",30,"2006-01-15 00:00:00",80,"Northwind Traders Dried Plums",30.0000,3.5000,0,105
+4,"Company D",31,"2006-01-20 00:00:00",7,"Northwind Traders Dried Pears",10.0000,30.0000,0,300
+4,"Company D",31,"2006-01-20 00:00:00",51,"Northwind Traders Dried Apples",10.0000,53.0000,0,530
+4,"Company D",31,"2006-01-20 00:00:00",80,"Northwind Traders Dried Plums",10.0000,3.5000,0,35
+12,"Company L",32,"2006-01-22 00:00:00",1,"Northwind Traders Chai",15.0000,18.0000,0,270
+12,"Company L",32,"2006-01-22 00:00:00",43,"Northwind Traders Coffee",20.0000,46.0000,0,920
+8,"Company H",33,"2006-01-30 00:00:00",19,"Northwind Traders Chocolate Biscuits Mix",30.0000,9.2000,0,276
+4,"Company D",34,"2006-02-06 00:00:00",19,"Northwind Traders Chocolate Biscuits Mix",20.0000,9.2000,0,184
+29,"Company CC",35,"2006-02-10 00:00:00",48,"Northwind Traders Chocolate",10.0000,12.7500,0,127.5
+3,"Company C",36,"2006-02-23 00:00:00",41,"Northwind Traders Clam Chowder",200.0000,9.6500,0,1930
+6,"Company F",37,"2006-03-06 00:00:00",8,"Northwind Traders Curry Sauce",17.0000,40.0000,0,680
+28,"Company BB",38,"2006-03-10 00:00:00",43,"Northwind Traders Coffee",300.0000,46.0000,0,13800
+8,"Company H",39,"2006-03-22 00:00:00",48,"Northwind Traders Chocolate",100.0000,12.7500,0,1275
+10,"Company J",40,"2006-03-24 00:00:00",81,"Northwind Traders Green Tea",200.0000,2.9900,0,598
+7,"Company G",41,"2006-03-24 00:00:00",43,"Northwind Traders Coffee",300.0000,46.0000,0,13800
+10,"Company J",42,"2006-03-24 00:00:00",6,"Northwind Traders Boysenberry Spread",10.0000,25.0000,0,250
+10,"Company J",42,"2006-03-24 00:00:00",4,"Northwind Traders Cajun Seasoning",10.0000,22.0000,0,220
+10,"Company J",42,"2006-03-24 00:00:00",19,"Northwind Traders Chocolate Biscuits Mix",10.0000,9.2000,0,92
+11,"Company K",43,"2006-03-24 00:00:00",80,"Northwind Traders Dried Plums",20.0000,3.5000,0,70
+11,"Company K",43,"2006-03-24 00:00:00",81,"Northwind Traders Green Tea",50.0000,2.9900,0,149.5
+1,"Company A",44,"2006-03-24 00:00:00",1,"Northwind Traders Chai",25.0000,18.0000,0,450
+1,"Company A",44,"2006-03-24 00:00:00",43,"Northwind Traders Coffee",25.0000,46.0000,0,1150
+1,"Company A",44,"2006-03-24 00:00:00",81,"Northwind Traders Green Tea",25.0000,2.9900,0,74.75
+28,"Company BB",45,"2006-04-07 00:00:00",41,"Northwind Traders Clam Chowder",50.0000,9.6500,0,482.5
+28,"Company BB",45,"2006-04-07 00:00:00",40,"Northwind Traders Crab Meat",50.0000,18.4000,0,920
+9,"Company I",46,"2006-04-05 00:00:00",57,"Northwind Traders Ravioli",100.0000,19.5000,0,1950
+9,"Company I",46,"2006-04-05 00:00:00",72,"Northwind Traders Mozzarella",50.0000,34.8000,0,1740
+6,"Company F",47,"2006-04-08 00:00:00",34,"Northwind Traders Beer",300.0000,14.0000,0,4200
+8,"Company H",48,"2006-04-05 00:00:00",8,"Northwind Traders Curry Sauce",25.0000,40.0000,0,1000
+8,"Company H",48,"2006-04-05 00:00:00",19,"Northwind Traders Chocolate Biscuits Mix",25.0000,9.2000,0,230
+25,"Company Y",50,"2006-04-05 00:00:00",21,"Northwind Traders Scones",20.0000,10.0000,0,200
+26,"Company Z",51,"2006-04-05 00:00:00",5,"Northwind Traders Olive Oil",25.0000,21.3500,0,533.75
+26,"Company Z",51,"2006-04-05 00:00:00",41,"Northwind Traders Clam Chowder",30.0000,9.6500,0,289.5
+26,"Company Z",51,"2006-04-05 00:00:00",40,"Northwind Traders Crab Meat",30.0000,18.4000,0,552
+6,"Company F",56,"2006-04-03 00:00:00",48,"Northwind Traders Chocolate",10.0000,12.7500,0,127.5
+29,"Company CC",55,"2006-04-05 00:00:00",34,"Northwind Traders Beer",87.0000,14.0000,0,1218
+6,"Company F",79,"2006-06-23 00:00:00",7,"Northwind Traders Dried Pears",30.0000,30.0000,0,900
+6,"Company F",79,"2006-06-23 00:00:00",51,"Northwind Traders Dried Apples",30.0000,53.0000,0,1590
+29,"Company CC",78,"2006-06-05 00:00:00",17,"Northwind Traders Fruit Cocktail",40.0000,39.0000,0,1560
+26,"Company Z",77,"2006-06-05 00:00:00",6,"Northwind Traders Boysenberry Spread",90.0000,25.0000,0,2250
+25,"Company Y",76,"2006-06-05 00:00:00",4,"Northwind Traders Cajun Seasoning",30.0000,22.0000,0,660
+8,"Company H",75,"2006-06-05 00:00:00",48,"Northwind Traders Chocolate",40.0000,12.7500,0,510
+6,"Company F",74,"2006-06-08 00:00:00",48,"Northwind Traders Chocolate",40.0000,12.7500,0,510
+9,"Company I",73,"2006-06-05 00:00:00",41,"Northwind Traders Clam Chowder",10.0000,9.6500,0,96.5
+28,"Company BB",72,"2006-06-07 00:00:00",43,"Northwind Traders Coffee",5.0000,46.0000,0,230
+1,"Company A",71,"2006-05-24 00:00:00",40,"Northwind Traders Crab Meat",40.0000,18.4000,0,736
+11,"Company K",70,"2006-05-24 00:00:00",8,"Northwind Traders Curry Sauce",20.0000,40.0000,0,800
+10,"Company J",69,"2006-05-24 00:00:00",80,"Northwind Traders Dried Plums",15.0000,3.5000,0,52.5
+10,"Company J",67,"2006-05-24 00:00:00",74,"Northwind Traders Almonds",20.0000,10.0000,0,200
+8,"Company H",60,"2006-04-30 00:00:00",72,"Northwind Traders Mozzarella",40.0000,34.8000,0,1392
+3,"Company C",63,"2006-04-25 00:00:00",3,"Northwind Traders Syrup",50.0000,10.0000,0,500
+3,"Company C",63,"2006-04-25 00:00:00",8,"Northwind Traders Curry Sauce",3.0000,40.0000,0,120
+4,"Company D",58,"2006-04-22 00:00:00",20,"Northwind Traders Marmalade",40.0000,81.0000,0,3240
+4,"Company D",58,"2006-04-22 00:00:00",52,"Northwind Traders Long Grain Rice",40.0000,7.0000,0,280
+4,"Company D",80,"2006-04-25 17:03:55",56,"Northwind Traders Gnocchi",10.0000,38.0000,0,380
+3,"Company C",81,"2006-04-25 17:26:53",81,"Northwind Traders Green Tea",0.0000,2.9900,0,0
+3,"Company C",81,"2006-04-25 17:26:53",56,"Northwind Traders Gnocchi",0.0000,38.0000,0,0
